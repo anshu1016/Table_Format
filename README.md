@@ -10,7 +10,7 @@ Features
 Dynamic table dimensions
 Responsive design for various screen sizes
 Attractive animations and styling
-Live Demo
+Live Demo:  https://table-format.vercel.app/
 Table Format on Vercel
 
 Usage
